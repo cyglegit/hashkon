@@ -1,0 +1,2 @@
+# hashkon
+File Hash Calculator
